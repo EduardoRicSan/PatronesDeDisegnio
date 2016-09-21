@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrototypeEduardo</string>
+    <string name="sexo">sexo</string>
+    <string name="nombre_del_personaje">Nombre del personaje</string>
+    <string name="clonar">Justu Clones</string>
+    <string name="naruto_uzumaki">Naruto Uzumaki</string>
+</resources>

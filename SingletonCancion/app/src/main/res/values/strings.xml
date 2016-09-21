@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingletonCancion</string>
+    <string name="cancion">Nombre de la cancion:</string>
+    <string name="artista">Nombre del artista</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingletonFutbol</string>
+    <string name="nombre_del_equipo">Nombre del equipo:</string>
+</resources>
